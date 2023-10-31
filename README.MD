@@ -6,7 +6,7 @@ This Python script is designed to analyze files and folders within a specified d
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/akshaykumargn/disk-evaluation.git
 Install the required Python libraries:
 pip install -r requirements.txt
 ## Usage
